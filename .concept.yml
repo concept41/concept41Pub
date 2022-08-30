@@ -1,0 +1,17 @@
+name: concept41
+kind: app
+apiVersion: v0.0
+hostname: concept41.com
+metadata:
+  resource:
+    version: v0.0
+    description: homepage for concept41 design, and overview of projects
+  visibility: private
+  concept:
+    number: 41
+spec:
+  documentation:
+    httpGet: concept41.com/docs
+  repository:
+    httpGet: https://github.com/fongelias/concept41
+  
