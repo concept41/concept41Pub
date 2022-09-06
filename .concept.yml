@@ -6,7 +6,7 @@ metadata:
   resource:
     version: v0.0
     description: homepage for concept41 design, and overview of projects
-  visibility: private
+  visibility: public
   concept:
     number: 41
 spec:
